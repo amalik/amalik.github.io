@@ -2,7 +2,7 @@ body {
     font-family: benton-sans,'Helvetica Neue', sans-serif;
 }
 #jumbotron1 {
-	background-image: url(file:///Users/amalikamriou/Desktop/amalik-html/img/test-featured.jpg);
+	background-image: url(/amalikonbootstrap.github.io/img/test-featured.jpg);
 	background-size: 100%;
 	background-repeat:no-repeat;
 	background-position:center center;
