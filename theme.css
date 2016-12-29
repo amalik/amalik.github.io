@@ -7,6 +7,9 @@
 	background-repeat:no-repeat;
 	background-position:center center;
 }
+#jumbotron2 {
+	border-radius: 0px;
+}
 #solution-architect {
 	color: #D46A6A;
 }
