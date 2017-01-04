@@ -8,9 +8,9 @@
 	background-position:center center;
 }
 #jumbotron2 {
-	border-radius: 2px;
+	border-radius: 4px;
 }
-#portrait {
+img {
 	border-radius: 2px;
 }
 #solution-architect {
