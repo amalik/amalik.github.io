@@ -7,12 +7,6 @@
 	background-repeat:no-repeat;
 	background-position:center center;
 }
-#jumbotron2 {
-	border-radius: 4px;
-}
-img {
-	border-radius: 4px;
-}
 #solution-architect {
 	color: #D46A6A;
 }
@@ -20,10 +14,10 @@ img {
 	color: #801515;
 }
 #product-owner {
-	color: #407F7F;
+	color: #D46A6A;
 }
 #agile-coach {
-	color: #0D4D4D;
+	color: #801515;
 }
 #h1-amalik {
 	color: #003333;
@@ -48,6 +42,18 @@ img {
 }
 #mobile {
 	color: #552700;
+}
+#development {
+	color: #407F7F;
+}
+#marketing {
+	color: #0D4D4D;
+}
+#agile {
+	color: #407F7F;
+}
+#langues {
+	color: #0D4D4D;
 }
 #punchline {
 	color: #661141;
