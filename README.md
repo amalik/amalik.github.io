@@ -6,4 +6,5 @@ This online resume was primarly used as a course material for a html/css worksho
 - email: amalik@amalikamriou.com
 - twitter: https://twitter.com/amalik
 - github: https://github.com/amalik
+- website: https://amalikamriou.com
 
