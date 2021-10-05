@@ -3,7 +3,7 @@ This online resume was primarly used as a course material for a html/css worksho
 ## License
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 ## Author
-- email: amalik@amalikamriou.com
+- email: amalik.amriou@gmail.com
 - twitter: https://twitter.com/amalik
 - github: https://github.com/amalik
 - website: https://amalik.github.io/
